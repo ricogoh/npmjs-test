@@ -1,0 +1,22 @@
+{
+  "name": "npmjs-test",
+  "version": "1.0.0",
+  "description": "npmjs test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricogoh/npmjs-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rico Goh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricogoh/npmjs-test/issues"
+  },
+  "homepage": "https://github.com/ricogoh/npmjs-test#readme"
+}
